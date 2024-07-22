@@ -2,7 +2,7 @@
 
 <img src="https://logoma.kr/svgs/logomaker-vertical.svg" alt="Lifetime Logo Maker" style="width: 50%;">
 
-Welcome to the download repository for Lifetime Logo Maker.
+Welcome to the **<span style="background-color: lightgreen;">download repository</span>** for Lifetime Logo Maker.
 
 Visit our website: [logoma.kr](https://logoma.kr)
 
@@ -37,7 +37,7 @@ You can download the latest releases from the following link:
 1. Download the `.dmg` file from the [latest releases](https://github.com/spintoai/lifetimelogomaker/releases).
 2. Open the downloaded `.dmg` file.
 3. Drag the Lifetime Logo Maker app to the Applications folder.
-4. Right-click the app in the Applications folder and select "Open" (the first time only).
+4. **<span style="background-color: lightgreen;">Right-click the app in the Applications folder and select "Open" (the first time only)</span>**.
    - Note: This step is necessary because the app is not downloaded from the App Store.
 
 ## Demo Version
