@@ -1,6 +1,6 @@
 # Lifetime Logo Maker
 
-![Lifetime Logo Maker](https://logoma.kr/svgs/logomaker-horizontal.svg)
+![Lifetime Logo Maker](https://logoma.kr/svgs/logomaker-vertical.svg)
 
 Welcome to the download repository for Lifetime Logo Maker.
 
