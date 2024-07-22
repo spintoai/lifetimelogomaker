@@ -1,6 +1,10 @@
 # Lifetime Logo Maker
 
+![Lifetime Logo Maker](https://logoma.kr/svgs/logomaker-horizontal.svg)
+
 Welcome to the download repository for Lifetime Logo Maker.
+
+Visit our website: [logoma.kr](https://logoma.kr)
 
 ## Available Versions
 
@@ -35,6 +39,10 @@ You can download the latest releases from the following link:
 3. Drag the Lifetime Logo Maker app to the Applications folder.
 4. Right-click the app in the Applications folder and select "Open" (the first time only).
    - Note: This step is necessary because the app is not downloaded from the App Store.
+
+## Demo Version
+
+The downloaded packages work as a demo version with a watermark and without the ability to export files. Users can try it indefinitely. To convert it to a paid version, you can purchase a license at [logoma.kr](https://logoma.kr).
 
 ## Implicit Agreement
 
