@@ -55,4 +55,4 @@ For any questions or support, please contact us at support@spintoai.com.
 
 ---
 
-© 2024 SpintoAI Inc. All rights reserved.
+© 2024 [SpintoAI Inc.](https://spintoai.com) All rights reserved.
