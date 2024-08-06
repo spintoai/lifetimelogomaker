@@ -25,7 +25,6 @@ You can download the latest releases from the following link:
 1. Download the `.exe` file from the [latest releases](https://github.com/spintoai/lifetimelogomaker/releases).
 2. Double-click the downloaded file to start the installation process.
 3. Follow the on-screen instructions to complete the installation.
-4. **Note:** You might see a SmartScreen warning during installation. This is because we are currently working on integrating EV codesign. <mark>Until then, you can proceed by clicking "More info" and then "Run anyway"</mark>.
 
 ### Linux (AppImage)
 
